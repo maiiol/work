@@ -1,0 +1,1 @@
+import{O as e}from"./DmB8eNVq.js";const u=e("auth",{state:()=>({user:null,isAuthenticated:!1}),actions:{login(t){this.user=t,this.isAuthenticated=!0},logout(){this.user=null,this.isAuthenticated=!1},checkAuth(){return!!this.isAuthenticated}},persist:!0});export{u};

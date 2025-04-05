@@ -1,0 +1,1 @@
+import{_ as t,c as a,a as e,o as n}from"./DmB8eNVq.js";const l={name:"Sidebar"},o={class:"sidebar"};function r(c,s,i,d,_,u){return n(),a("div",o,s[0]||(s[0]=[e("h2",null,"ShishGram",-1),e("ul",null,[e("li",null,"Chats"),e("li",null,"Contacts"),e("li",null,"Settings")],-1)]))}const f=t(l,[["render",r],["__scopeId","data-v-b518be85"]]);export{f as default};

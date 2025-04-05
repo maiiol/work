@@ -1,1 +1,0 @@
-import{_ as s,c as t,H as c,o as l}from"./DIneU_vK.js";c("ws://localhost:3000").on("hello",o=>{console.log(o)});const n={};function a(e,o,r,p,_,f){return l(),t("h1",null," СОКЕТ ЗДЕСЬ")}const u=s(n,[["render",a]]);export{u as default};
