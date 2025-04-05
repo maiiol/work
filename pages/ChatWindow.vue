@@ -1,4 +1,5 @@
 <template>
+  re
     <div class="chat-window">
       <h3>{{ chat.name }}</h3>
       <div class="messages">
