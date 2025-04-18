@@ -86,4 +86,6 @@ export default {
     </div>
 
 </div>
+<a href="/test">нажми на меня</a>
+<h1>сёма соси хуй</h1>
 </template>
