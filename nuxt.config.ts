@@ -2,6 +2,14 @@
 export default defineNuxtConfig({
   compatibilityDate: '2024-11-01',
   target: 'static',
+  $production: {
+    app: {
+      baseURL: '/shpgram/'
+    },
+    router: {
+      base: '/shpgram/'
+    }
+  },
   generate: {
     fallback: true
   },
