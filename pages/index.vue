@@ -45,7 +45,7 @@ function onSignIn(googleUser) {
     <div class="grid gap-4 col-start-1 col-end-3 row-start-1 sm:mb-6 sm:grid-cols-4 lg:gap-6 lg:col-start-2 lg:row-end-6 lg:row-span-6 lg:mb-0">
       <img src="~/assets/img/kioto.jpg" alt="" class="w-full h-60 object-cover rounded-lg sm:h-82 sm:col-span-2 lg:col-span-full" loading="lazy">
       <img src="~/assets/img/kioto_one.jpg" alt="" class="hidden w-full h-52 object-cover rounded-lg sm:block sm:col-span-2 md:col-span-1 lg:row-start-2 lg:col-span-2 lg:h-32" loading="lazy">
-      <img src="~/assets/img/kioto_two.WebP" alt="" class="hidden w-full h-52 object-cover rounded-lg md:block lg:row-start-2 lg:col-span-2 lg:h-32" loading="lazy">
+      <img src="~/assets/img/kioto_two.jpg" alt="" class="hidden w-full h-52 object-cover rounded-lg md:block lg:row-start-2 lg:col-span-2 lg:h-32" loading="lazy">
     </div>
     <dl class="mt-4 text-xs font-medium flex items-center row-start-2 sm:mt-1 sm:row-start-3 md:mt-2.5 lg:row-start-2">
       <dt class="sr-only">Отзывы</dt>
@@ -82,7 +82,7 @@ function onSignIn(googleUser) {
     </div>
     <div class="grid gap-4 col-start-1 col-end-3 row-start-1 sm:mb-6 sm:grid-cols-4 lg:gap-6 lg:col-start-2 lg:row-end-6 lg:row-span-6 lg:mb-0">
       <img src="~/assets/img/Osaka.jpg" alt="" class="w-full h-60 object-cover rounded-lg sm:h-82 sm:col-span-2 lg:col-span-full" loading="lazy">
-      <img src="~/assets/img/Osaka_one.WebP" alt="" class="hidden w-full h-52 object-cover rounded-lg sm:block sm:col-span-2 md:col-span-1 lg:row-start-2 lg:col-span-2 lg:h-32" loading="lazy">
+      <img src="~/assets/img/Osaka_one.jpg" alt="" class="hidden w-full h-52 object-cover rounded-lg sm:block sm:col-span-2 md:col-span-1 lg:row-start-2 lg:col-span-2 lg:h-32" loading="lazy">
       <img src="~/assets/img/Osaka_two.jpg" alt="" class="hidden w-full h-52 object-cover rounded-lg md:block lg:row-start-2 lg:col-span-2 lg:h-32" loading="lazy">
     </div>
     <dl class="mt-4 text-xs font-medium flex items-center row-start-2 sm:mt-1 sm:row-start-3 md:mt-2.5 lg:row-start-2">
@@ -119,7 +119,7 @@ function onSignIn(googleUser) {
     </div>
     <div class="grid gap-4 col-start-1 col-end-3 row-start-1 sm:mb-6 sm:grid-cols-4 lg:gap-6 lg:col-start-2 lg:row-end-6 lg:row-span-6 lg:mb-0">
       <img src="~/assets/img/Okinava.jpg" alt="" class="w-full h-60 object-cover rounded-lg sm:h-82 sm:col-span-2 lg:col-span-full" loading="lazy">
-      <img src="~/assets/img/Okinava_one.WebP" alt="" class="hidden w-full h-52 object-cover rounded-lg sm:block sm:col-span-2 md:col-span-1 lg:row-start-2 lg:col-span-2 lg:h-32" loading="lazy">
+      <img src="~/assets/img/Okinava_one.jpg" alt="" class="hidden w-full h-52 object-cover rounded-lg sm:block sm:col-span-2 md:col-span-1 lg:row-start-2 lg:col-span-2 lg:h-32" loading="lazy">
       <img src="~/assets/img/Okinava_two.jpg" alt="" class="hidden w-full h-52 object-cover rounded-lg md:block lg:row-start-2 lg:col-span-2 lg:h-32" loading="lazy">
     </div>
     <dl class="mt-4 text-xs font-medium flex items-center row-start-2 sm:mt-1 sm:row-start-3 md:mt-2.5 lg:row-start-2">
