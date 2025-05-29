@@ -1,0 +1,25 @@
+@import "tailwindcss";
+
+.right {
+    margin-left: 40px; 
+  }
+
+.centered {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+  }
+
+.element {
+    background-image: url('~/assets/img/japan.WebP');
+    background-size: cover;
+    background-repeat: no-repeat; 
+    background-position: center;
+    
+  }
+
+.txt {
+background-color: gray-500;
+}
+
